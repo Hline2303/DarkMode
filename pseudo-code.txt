@@ -1,0 +1,11 @@
+Au clic (event), sur la div switch (élément),
+la div btn (élément), se déplace (action).
+
+Au clic (event), sur la div switch (élément),
+l'icône (élément), se déplace et devient un soleil (action).
+
+Au clic (event), sur la div switch (élément),
+la div container et la div switch (élément) changent de couleur de fond.
+
+Au clic (event), sur la div switch (élément),
+le titre (élément), change (action).
